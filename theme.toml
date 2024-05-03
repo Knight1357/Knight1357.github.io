@@ -1,4 +1,4 @@
-name = "liushen"
+name = "Knight1357"
 license = "MIT"
 licenselink = "https://github.com/HugoBlox/theme-academic-cv/blob/main/LICENSE.md"
 description = "Use the no-code website framework to easily build your site. Choose from 50+ widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
@@ -39,11 +39,11 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Knight1357"
+  homepage = "Knight1357.github.io"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
+  name = "Knight1357"
+  homepage = "Knight1357.github.io"
   repo = ""
