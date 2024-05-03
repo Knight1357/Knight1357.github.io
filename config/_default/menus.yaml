@@ -9,10 +9,10 @@ main:
     url: '#about'
     weight: 10
   - name: Skills
-    url: '#Skills'
+    url: '#skills'
     weight: 20
   - name: Tags
-    url: '#tag_cloud'
+    url: '#tags'
     weight: 30
   - name: Posts
     url: '#posts'

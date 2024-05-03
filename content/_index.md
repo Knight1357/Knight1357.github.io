@@ -46,6 +46,7 @@ sections:
       username: admin
   # 技能模块
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -56,6 +57,7 @@ sections:
 
   # tag 标签模块
   - block: tag_cloud
+    id: tags
     content:
       title: Popular Topics
     design:
