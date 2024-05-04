@@ -45,15 +45,15 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # 技能模块
-  - block: skills
-    id: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   id: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
 
   # tag 标签模块
   - block: tag_cloud

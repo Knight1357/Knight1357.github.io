@@ -26,7 +26,7 @@ superuser: true
 #     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 一个爱折腾，热爱编程的大学生
 
 # 兴趣
 # Interests to show in About widget
