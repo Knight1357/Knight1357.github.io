@@ -201,6 +201,11 @@ ssh 用户名@云服务器IP -p 端口号
 
 在了解 frp 使用和原理后，我们可以对 frp 进行容器化，方便后续部署frp
 
+### 想直接用
+这是我自己配好的：
+服务端： https://hub.docker.com/repository/docker/knight13579/frps/general
+客户端： https://hub.docker.com/repository/docker/knight13579/frpc/general
+
 ### 服务端容器化
 1. 新建项目文件夹
 2. 下载 frp 压缩包
