@@ -33,7 +33,7 @@ bio: 一个爱折腾，热爱编程的大学生
 interests:
   - C/C++/Java/Python
   - Puzzle
-  - Badminton
+  - Algorithm
 
 # 教育经历
 # Education to show in About widget
